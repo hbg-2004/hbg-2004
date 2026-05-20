@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # heart
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -40,3 +41,21 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+## Hi there 👋
+
+<!--
+**hbg-2004/hbg-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 4ad8f5e94bad262c2c712acbc3a39adf2abc4933
